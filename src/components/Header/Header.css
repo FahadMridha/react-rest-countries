@@ -1,0 +1,15 @@
+.menu{
+ background-color: rgba(33, 54, 54, 0.938);
+ padding: 30px;
+ /* margin: 10px; */
+ border-radius: 5px;
+ 
+}
+.menu a{
+    color: whitesmoke;
+    text-decoration:none;
+    margin-right: 20px;
+    position: relative;
+    left: 30%;
+   
+}
