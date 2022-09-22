@@ -1,0 +1,15 @@
+.country{
+    background-color: bisque;
+    border: 2px solid goldenrod;
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    /* width: 300px;
+    position:relative;
+    left: 40%;
+     */
+
+}
+.country img{
+    width: 150px;
+}
